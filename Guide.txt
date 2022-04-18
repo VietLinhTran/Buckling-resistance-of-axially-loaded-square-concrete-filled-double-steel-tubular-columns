@@ -1,0 +1,5 @@
+Step 1: Make a new folder (C:/ANN)
+Step 2: Open MATLAB
+Step 3: Set Path to the ANN folder
+Step 4: Type ANN_model_run in the Command Prompt of MATLAB to use this tool.
+Enjoy!
